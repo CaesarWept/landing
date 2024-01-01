@@ -16,11 +16,11 @@ contact:
 education:
   - university: PharmD - Univesity of Toronto
     duration: 2017 &mdash; 2021
-    #location: Consectetur adipiscing elit
+    # location: Consectetur adipiscing elit
     major: Co-founder of French Club Phrancophones of Pharmacy
   - university: B.Sc. Biomedical Sciences with Honours - University of Ottawa
     duration: 2012 &mdash; 2016
-    #location: Ut enim ad minim veniam
+    # location: Ut enim ad minim veniam
     major: Dean's List x 4 years
 skills:
   - title: Front-end
@@ -35,11 +35,11 @@ experience:
   - title: Oncology Pharmacist & Clinical Pharmacist
     duration: Jan 2023 - Now
     company: Winchester District Memorial Hospital
-    description: WDMH Cancer Treatment Unit is the largest Satellite Cancer Site to the Ottawa Hospital Cancer Centre (TOHCC) in the Ottawa Valley region. Responsiblities include&colon; <ul class="resume-item-list"><li>Continuous learning to stay up-to-date with the latest Cancer Care Ontario treatment and funding pathways &amp; guidelines</li><li>Monitor & adjust supportive care medications (e.g., antiemetics)</li><li>Clinical verification and chemotherapy dosage adjustment based on oncologist-specified treatment parameters, patient laboratory test results</li><li>Technical verification of chemotherapy preparations in accordance with NAPRA standards</li><li>Patient education with respect to chemotherapy regimen, their side effects, and management of side effects with supportive medications and non-pharmacological measures</li></ol>
+    description: The WDMH Cancer Treatment Unit is the largest Satellite site to the Ottawa Hospital Cancer Centre (TOHCC) in the Ottawa Valley region. Responsibilities include&colon; <ul class="resume-item-list"><li>Continuous learning to stay up-to-date with the latest Cancer Care Ontario treatment and funding pathways &amp; guidelines</li><li>Monitor & adjust supportive care medications (e.g., antiemetics)</li><li>Clinical verification and chemotherapy dosage adjustment based on oncologist-specified treatment parameters, patient laboratory test results</li><li>Technical verification of chemotherapy preparations in accordance with NAPRA standards</li><li>Patient education with respect to chemotherapy regimen, their side effects, and management of side effects with supportive medications and non-pharmacological measures</li></ol>
   - title: Pharmacist
     duration: 2022 - Now
-    company: Costco Kanata, Pharmasave West Careleton Drug-Mart
-    description: Professional services&colon; vaccination clinics, medication reviews. Patient education &colon;counseling. Dispensing duties.
+    company: Costco Kanata, Pharmasave West Carleton Drug-Mart
+    description: Professional services&colon; vaccination clinics, medication reviews. Patient education &amp;counseling. Dispensing duties.
   - title: Medical Science Liaison Intern
     duration: Feb 2021 - May 2021
     company: Bayer Canada - Women's Health
