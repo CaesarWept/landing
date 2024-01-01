@@ -1,55 +1,53 @@
 html {
     width: 100%;
-    font-size: 14px
-}
-
-body {
+    font-size: 14px;
+  }
+  
+  body {
     text-align: center;
     width: 100%;
     font-family: "Noto Sans", "Segoe UI", Roboto, Helvetica, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
     -webkit-font-smoothing: antialiased;
     font-size: 1rem;
     margin: 0;
-    color: #4C566A;
-    background-color: #fff
-}
-
-a {
+    color: $main-color;
+    background-color: $background-color;
+  }
+  
+  a {
     text-decoration: none;
-    color: inherit
-}
-
-a:hover {
-    text-decoration: underline;
-    color: $link-color;
-    font-weight: 200;
-}
-
-.container {
+    color: inherit;
+  
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  
+  .container {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 1rem;
-    max-width: 52rem;
-    text-align: left
-}
-
-@media screen and (max-width: 52rem) {
+    max-width: $breakpoint;
+    text-align: left;
+  }
+  
+  @media screen and (max-width: $breakpoint) {
     html {
-        font-size:12px
+      font-size: 12px;
     }
-
+  
     .container {
-        padding-left: .4rem;
-        padding-right: .4rem
+      padding-left: .4rem;
+      padding-right: .4rem;
     }
-}
-
-@media print {
+  }
+  
+  @media print {
     html {
-        font-size: 11px
+      font-size: 12px;
     }
-
+  
     .print {
-        display: none
+      display: none;
     }
-}
+  }

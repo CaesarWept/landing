@@ -50,9 +50,9 @@ $secondary-color:  #fd7e14;
 $main-color:       #495057;
 $secondary-color:  #adb5bd;
 {% when 'nord' %}
-$main-color:       #434C5E;
-$secondary-color:  #5E81AC;
-$link-color:       #BF616A;
+$main-color:       #434c5e;
+$secondary-color:  #5e81ac;
+$link-color:    #bf616a;
 {% else %}
 $main-color:       #495057;
 $secondary-color:  #adb5bd;
