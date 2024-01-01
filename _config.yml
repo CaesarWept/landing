@@ -1,6 +1,5 @@
 title: Résumé
 baseurl: "/landing/"
-color: nord
 exclude:
   - README.md
   - "README_zh-CN.md"
