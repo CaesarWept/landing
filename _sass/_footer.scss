@@ -5,4 +5,16 @@ footer {
   line-height: 3rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
+  {
+    a {
+      font-weight: bold;
+      color: $secondary-color;
+  }
+  
+    a:hover {
+      color: $link-color;
+  }
+  
+  }
+  }
 }
