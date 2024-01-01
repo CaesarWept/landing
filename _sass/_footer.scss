@@ -1,8 +1,20 @@
 footer {
-  color: $secondary-color;
-  font-size: 1rem;
-  min-height: 3rem;
-  line-height: 3rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+    color: #81A1C1;
+    font-size: 1rem;
+    min-height: 3rem;
+    line-height: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+a {
+    text-decoration: underline;
+    color: #4C566A;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #BF616A;
+    font-weight: 200
+}
+
 }
