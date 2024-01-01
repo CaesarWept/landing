@@ -1,73 +1,67 @@
 section {
-    display: flex;
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
-    padding-left: .2rem;
-    border-bottom: 0.1rem solid #81A1C1;
-    hyphens: auto
+display: flex;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  padding-left: .2rem;
+  border-bottom: 0.1rem solid #81A1C1;
+  hyphens: auto
 }
-
 .section-title {
-    font-size: 1.6rem;
-    text-align: left;
-    min-width: 10rem
+  font-size: 1.6rem;
+  text-align: left;
+  min-width: 10rem;
 }
-
 .section-flex {
-    display: flex;
-    flex-wrap: wrap
+  display: flex;
+  flex-wrap: wrap
 }
-
 .block {
-    margin-bottom: 2rem
+  margin-bottom: 2rem
 }
-
 .block:last-child {
-    margin-bottom: 0
+   margin-bottom: 0
 }
 
 .block-square {
-    width: 18rem
+  width: 18rem
 }
-
 .block-square:nth-last-child(2) {
-    margin-bottom: 0
+  margin-bottom: 0
 }
 
 .block-title {
-    font-size: 1.2rem;
-    margin-bottom: .4rem;
-    font-weight: bold
+  font-size: 1.2rem;
+  margin-bottom: .4rem;
+  font-weight: bold
 }
-
 .block-subtitle {
-    font-size: 1rem;
-    margin-bottom: 1rem;
-    color: #81A1C1
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: #81A1C1
 }
 
 .block-content {
-    font-size: 1rem;
-    line-height: 1.5
+  font-size: 1rem;
+  line-height: 1.5
 }
 
-@media screen and (max-width: 48rem) {
-    section {
-        display:block;
-        padding-top: 2rem;
-        padding-bottom: 2rem
+@media screen and (max-width: 52rem) {
+  section {
+    display:block;
+      padding-top: 2rem;
+      padding-bottom: 2rem
     }
 
-    .section-title {
-        text-align: center;
-        margin-bottom: 2rem
+  .section-title {
+    text-align: center;
+    margin-bottom: 2rem
     }
 
-    .section-flex {
-        display: block
-    }
+  .section-flex {
+      display: block
+  }
 
-    .block-square:nth-last-child(2) {
-        margin-bottom: 2rem
-    }
+  .block-square:nth-last-child(2) {
+      margin-bottom: 2rem
+  }
 }
