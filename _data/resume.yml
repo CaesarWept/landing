@@ -32,7 +32,7 @@ experience:
   - title: Oncology Pharmacist & Clinical Pharmacist
     duration: Jan 2023 - Now
     company: Winchester District Memorial Hospital
-    description: WDMH Cancer Treatment Unit is the largest Satellite Cancer Site to the Ottawa Hospital Cancer Centre (TOHCC) in the Ottawa Valley region. Responsiblities include&colon; <ul class="resume-item-list"><li>Continuous learning to stay up-to-date with the latest Cancer Care Ontario treatment and funding pathways &amp; guidelines</li><li>Monitor & adjust supportive care medications (e.g., antiemetics) under the medical directive of medical oncologists</li><li>Clinical verification and chemotherapy dosage adjustment based on oncologist-specified treatment parameters, patient laboratory test results</li><li>Technical verification of chemotherapy preparations in accordance with NAPRA standards</li><li>Patient education with respect to chemotherapy regimen, their side effects, and management of side effects with supportive medications and non-pharmacological measures</li></ol>
+    description: WDMH Cancer Treatment Unit is the largest Satellite Cancer Site to the Ottawa Hospital Cancer Centre (TOHCC) in the Ottawa Valley region. Responsiblities include&colon; <ul class="resume-item-list"><li>Continuous learning to stay up-to-date with the latest Cancer Care Ontario treatment and funding pathways &amp; guidelines</li><li>Monitor & adjust supportive care medications (e.g., antiemetics)</li><li>Clinical verification and chemotherapy dosage adjustment based on oncologist-specified treatment parameters, patient laboratory test results</li><li>Technical verification of chemotherapy preparations in accordance with NAPRA standards</li><li>Patient education with respect to chemotherapy regimen, their side effects, and management of side effects with supportive medications and non-pharmacological measures</li></ol>
   - title: Pharmacist
     duration: 2022 - Now
     company: Costco Kanata, Pharmasave West Careleton Drug-Mart
@@ -45,10 +45,13 @@ experience:
 projects:
   - name: Original Music Compositions
     description: Influenced by Piazzola and contemporary Japanese composers such as Ryo Yoshimata 吉俣良.
-    contribution:  IscoDisco's <a href="https://musescore.com/user/35351906"">original guitar and piano compositions</a> on MuseScore. 
-  - name: Project Name 2
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Creator and maintainer.
+    contribution: <a href="https://musescore.com/user/35351906"">IscoDisco's original guitar and piano compositions on MuseScore</a>.
+  - name: Tableau Data Viz projects
+    description: Miscellaneous Tableau data visualization projects I put together in pharmacy school...
+    contribution: Can be found here: <a href="https://public.tableau.com/app/profile/iscodisco22/vizzes">https://public.tableau.com/app/profile/iscodisco22/vizzes</a>.
+  - name: Miscellaneous Chemotherapy Project
+    description:  Database of miscellaneous chemo drugs I use every day at WDMH. Not for distribution. So far, project includes clinical info (admin, dispensing information, common side effects), funding info (Cancer Care Ontario funding status, eligibility criteria), R&D info (FDA approval date, originator, biosimilars), etc. Work in progress.
+    contribution: Linked here on Notion&colon; <a href="https://iscodisco.notion.site/iscodisco/dea175664f47483181d8ad63974cc4db?v=30345be1bf9a41ad9ceffc3ee72c1b7f">Miscellaneous oncology project</a>. 
 languages:
   - name: English
   - name: French
