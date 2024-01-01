@@ -1,6 +1,6 @@
 title: Résumé
 name: IscoDisco22
-jobtitle: Oncology Pharmacist, data scientist <br>BSc, PharmD <br> Sorry, not currently looking for work
+jobtitle: Oncology Pharmacist, data scientist <br>BSc, PharmD <br> Sorry, I'm currently not looking for work
 contact:
   - icon: fa-envelope
     text: yizhousitu@hotmail.com
@@ -14,12 +14,12 @@ contact:
     text: iscodisco2223
     link: https://www.instagram.com/iscodisco2223/
 education:
-  - university: PharmD - Univesity of Toronto
-    duration: 2017 &mdash; 2021
+  - university: PharmD - University of Toronto
+    duration: 2017 - 2021
     # location: Consectetur adipiscing elit
     major: Co-founder of French Club Phrancophones of Pharmacy
   - university: B.Sc. Biomedical Sciences with Honours - University of Ottawa
-    duration: 2012 &mdash; 2016
+    duration: 2012 - 2016
     # location: Ut enim ad minim veniam
     major: Dean's List x 4 years
 skills:
