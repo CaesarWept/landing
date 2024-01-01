@@ -7,7 +7,6 @@
  */
 
 $breakpoint: 48rem;
-
 $background-color: #fff;
 
 {% case site.color %}
@@ -52,7 +51,7 @@ $main-color:       #495057;
 $secondary-color:  #adb5bd;
 {% when 'nord' %}
 $main-color:       #4C566A;
-$secondary-color:  #5E81AC
+$secondary-color:  #5E81AC;
 $link-color:       #BF616A;
 {% else %}
 $main-color:       #495057;
