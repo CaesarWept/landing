@@ -1,6 +1,6 @@
 title: Résumé
 name: IscoDisco22
-jobtitle: Oncology Pharmacist <br>BSc, PharmD
+jobtitle: Oncology Pharmacist, data scientist <br>BSc, PharmD
 contact:
   - icon: fa-envelope
     text: youremail@example.com
@@ -22,17 +22,19 @@ education:
     #location: Ut enim ad minim veniam
     major: Dean's List x 4 years
 skills:
-  - title: Skill Group 1
-    items: Lorem, Ipsum, Dolor, Sit, Amet
-  - title: Skill Group 2
-    items: Consectetur, Adipiscing, Elit
-  - title: Skill Group 3
-    items: Sed do, Eiusmod, Tempor, Incididunt
+  - title: Front-end
+    items: HTML5, CSS, YAML, XML, jQuery
+  - title: Back-end & Databases
+    items: Javascript, Python, R, SQL, Microsoft Access
+  - title: Data visualization
+    items: Microsoft Power BI, Tableau
+  - title: Graphic Design & Adobe Creative Suite
+    items: Sketchup Modeling, Illustrator, Photoshop, Premiere Pro, Audition, Lightroom Catalog Management
 experience:
   - title: Oncology Pharmacist & Clinical Phrmacist
     duration: Jan 2023 - Now
     company: Winchester District Memorial Hospital
-    description: WDMH Cancer Treatment Unit is the largest Satellite Cancer Site to the Ottawa Hospital Cancer Centre (TOHCC) in the Ottawa Valley region. Responsiblities include &colon; <ol class="resume-item-list"><li>Continuous learning to stay up-to-date with the latest Cancer Care Ontario treatment and funding pathways &amp; guidelines</li><li>Monitor & adjust supportive care medications (e.g., antiemetics) under the medical directive of medical oncologists</li><li>Clinical verification and chemotherapy dosage adjustment based on oncologist-specified treatment parameters, patient laboratory test results</li><li>Technical verification&colon; ensure chemotherapy and sterile preparations are prepared in accordance with NAPRA standards</li><li>Patient education with respect to chemotherapy regimen, their side effects, and management of side effects with supportive medications and non-pharmacological measures</li></ol>
+    description: WDMH Cancer Treatment Unit is the largest Satellite Cancer Site to the Ottawa Hospital Cancer Centre (TOHCC) in the Ottawa Valley region. Responsiblities include&colon; <ul class="resume-item-list"><li>Continuous learning to stay up-to-date with the latest Cancer Care Ontario treatment and funding pathways &amp; guidelines</li><li>Monitor & adjust supportive care medications (e.g., antiemetics) under the medical directive of medical oncologists</li><li>Clinical verification and chemotherapy dosage adjustment based on oncologist-specified treatment parameters, patient laboratory test results</li><li>Technical verification of chemotherapy preparations in accordance with NAPRA standards</li><li>Patient education with respect to chemotherapy regimen, their side effects, and management of side effects with supportive medications and non-pharmacological measures</li></ol>
   - title: Job Title 2
     duration: Apr 2013 - Mar 2016
     company: Your 2nd, Inc.
@@ -42,9 +44,9 @@ experience:
     company: Your 3rd Co, Ltd.
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 projects:
-  - name: Project Name 1
-    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Contributor.
+  - name: Original Music Compositions
+    description: <a href="https://musescore.com/user/35351906">IscoDisco's original guitar and piano compositions on MuseScore</a>. Influenced by Piazzola and contemporary Japanese composers such as Ryo Yoshimata 吉俣良.
+    # contribution: Contributor.
   - name: Project Name 2
     description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     contribution: Creator and maintainer.
