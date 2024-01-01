@@ -46,8 +46,8 @@ experience:
 
 projects:
   - name: Original Music Compositions
-    description: IscoDisco's <a href="https://musescore.com/user/35351906">original guitar and piano compositions</a> on MuseScore. Influenced by Piazzola and contemporary Japanese composers such as Ryo Yoshimata 吉俣良.
-    # contribution: Contributor.
+    description: Influenced by Piazzola and contemporary Japanese composers such as Ryo Yoshimata 吉俣良.
+    contribution:  IscoDisco's <a href="https://musescore.com/user/35351906" style="font-weight: bold;">original guitar and piano compositions</a> on MuseScore. 
   - name: Project Name 2
     description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     contribution: Creator and maintainer.
