@@ -16,7 +16,8 @@ body {
 
 a {
   text-decoration: none;
-  color: inherit;
+  color: $link-color;
+  border-bottom: 1px solid;
 
   &:hover {
     text-decoration: underline;
