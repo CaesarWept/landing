@@ -61,10 +61,10 @@ languages:
   - name: Mandarin Chinese
 interests:
   - name: Quantitative modeling
-  description: Quantitative modeling of N-person zero-sum games with Python, R &colon; Texas hold-em poker, Fantasy Premier League
+    description: Quantitative modeling of N-person zero-sum games with Python, R &colon; Texas hold-em poker, Fantasy Premier League
   - name: Day trading
-  description: Day trading equities, FOREX, securities and commodities (specifically&colon; energy, leveraged oil futures) - see my Instagram stories for daily macro commentary
+    description: Day trading equities, FOREX, securities and commodities (specifically&colon; energy, leveraged oil futures) - see my Instagram stories for daily macro commentary
   - name: Top 0.5% in the world in Fantasy Premier League
-  description: Finished top 0.5 percentile in the world in the <a href="https://fantasy.premierleague.com/entry/509266/history">2021-2022 Fantasy Premier League season</a>. Global rank&colon; 49,191 out of 12.5 Million. Top 500 in Canada.
+    description: Finished top 0.5 percentile in the world in the <a href="https://fantasy.premierleague.com/entry/509266/history">2021-2022 Fantasy Premier League season</a>. Global rank&colon; 49,191 out of 12.5 Million. Top 500 in Canada.
   - name: Music
-  description: I like playing, arranging &amp; composing music. I play Spanish guitar, violin, harmonica, piano, among other instruments. Below is a recording of Capricho árabe on a 1972 Suzuki Nagoya No. 36 guitar&col;
+    description: I like playing, arranging &amp; composing music. I play Spanish guitar, violin, harmonica, piano, among other instruments. Below is a recording of Capricho árabe on a 1972 Suzuki Nagoya No. 36 guitar&col;
