@@ -3,7 +3,7 @@ header {
   justify-content: space-between;
   border-bottom: .1rem solid $secondary-color;
   padding-top: 2rem;
-  padding-bottom: .5rem;
+  padding-bottom: .3rem;
 }
 
 .name-wrapper {
@@ -26,7 +26,7 @@ header {
 }
 
 .contact-item {
-  margin-top: .4rem;
+  margin-top: .5rem;
 
   &:nth-child(1) {
     margin-top: 0;
