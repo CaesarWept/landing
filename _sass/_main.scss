@@ -15,12 +15,8 @@ body {
 }
 
 body::selection {
-  background-color: $selection-color;
+  background-color: #ffdc00;
 }
-
-.highlighted-text {
-  color: $secondary-color;
-  }
 
 a {
   text-decoration: none;
