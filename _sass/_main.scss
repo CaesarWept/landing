@@ -35,7 +35,7 @@ a {
 
 @media screen and (max-width: $breakpoint) {
   html {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .container {
@@ -46,7 +46,7 @@ a {
 
 @media print {
   html {
-    font-size: 12px;
+    font-size: 11px;
   }
 
   .print {
