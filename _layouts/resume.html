@@ -136,16 +136,17 @@ layout: default
           {% endfor %}
         </div>
       </section>
-<!-- Begin interests section-->>
+<!-- begin Interests -->
       <section id="interests">
         <div class="section-title">
           Interests
         </div>
-        <div class="block-content">
-          {% for interest in interests %}
-          <p>{{ interest.description }}</p>
-        {% endfor %}
-        </div>
+      {% for interest in site.data.interests %}
+      <ul class="resume-item-list">
+            <li>{{ interest.description }}</li>
+          </ul>
+      {% endfor %}
+
  <!-- Your embedded video player code -->
         <!--<div class="fb-video" data-href="https://www.facebook.com/ysitu10/videos/2870939759699321" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/ysitu10/videos/2870939759699321/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ysitu10/videos/2870939759699321/"></a><p></p>Posted by <a href="#" role="button">Yizhou Situ</a> on Thursday, June 18, 2020</blockquote></div> -->
       </section>
