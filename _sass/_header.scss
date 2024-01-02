@@ -38,6 +38,10 @@ header {
   }
 }
 
+.jobstatus {
+  color: $secondary-color
+}
+
 @media screen and (max-width: $breakpoint) {
   header {
     display: block;
