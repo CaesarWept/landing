@@ -137,7 +137,7 @@ layout: default
         </div>
       </section>
 
-      <section id="interests">
+<!--     <section id="interests">
         <div class="section-title">
           Interests
         </div>
@@ -154,18 +154,19 @@ layout: default
           </div>
           {% endfor %}
         </div>
-      </section>
+      </section> --> 
+
 <!-- begin Interests -->
-      <!-- <section id="interests">
+      <section id="interests">
         <div class="section-title">
           Interests
         </div>
-        <div class="section-content"
-      {% for interests in site.data.interests %}
-      <ul class="resume-item-list">
-            <li>{{ interest.description }}</li>
-          </ul>
-      {% endfor %}
+        <div class="block-content">
+          {% for interests in site.data.resume.interests %}
+            <p>{{ interests.description }}</p>
+          {% endfor %}
+        </div>
+      </section>
 
  <!-- Your embedded video player code -->
         <!--<div class="fb-video" data-href="https://www.facebook.com/ysitu10/videos/2870939759699321" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/ysitu10/videos/2870939759699321/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ysitu10/videos/2870939759699321/"></a><p></p>Posted by <a href="#" role="button">Yizhou Situ</a> on Thursday, June 18, 2020</blockquote></div> -->
