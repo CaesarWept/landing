@@ -136,12 +136,32 @@ layout: default
           {% endfor %}
         </div>
       </section>
-<!-- begin Interests -->
+
       <section id="interests">
         <div class="section-title">
           Interests
         </div>
-      {% for interest in site.data.interests %}
+        <div class="section-content">
+          {% for interests in site.data.resume.interests %}
+          <div class="block">
+            <div class="block-title">
+              {{ interests.name }}
+            </div>
+            </div>
+            <div class="block-content">
+              {{ interests.description }}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+<!-- begin Interests -->
+      <!-- <section id="interests">
+        <div class="section-title">
+          Interests
+        </div>
+        <div class="section-content"
+      {% for interests in site.data.interests %}
       <ul class="resume-item-list">
             <li>{{ interest.description }}</li>
           </ul>
