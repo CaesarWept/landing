@@ -12,9 +12,13 @@ body {
   margin: 0;
   color: $main-color;
   background-color: $background-color;
+}
+body::selection {
+  background-color: $selection-color; /* Replace with your desired highlight color */
+}
 
   .highlighted-text{
-    color: #ffdc00;
+    color: $secondary-color;
   }
   
 }
